@@ -1,6 +1,9 @@
 **COURSE PLAN**
+
 *III-TRIMESTER (2023-24)*
+
 **Class MSAIM**
+
 **SECTION I**
 
 >> Course Code - MAI371
