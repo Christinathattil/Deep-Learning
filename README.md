@@ -4,8 +4,6 @@
 
 **Class MSAIM**
 
-**SECTION I**
-
 >> Course Code - MAI371
 
 >> Course title- Deep Learning
